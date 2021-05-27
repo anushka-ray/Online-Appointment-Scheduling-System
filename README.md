@@ -24,4 +24,5 @@ For admin:
 
 ![image](https://user-images.githubusercontent.com/64952609/119834357-80c0ae00-bf1d-11eb-9bbc-d93b74ee7fc6.png)
 
-![image](https://user-images.githubusercontent.com/64952609/119834330-7999a000-bf1d-11eb-9379-c7108379070c.png)
+![image](https://user-images.githubusercontent.com/64952609/119834330-7999a000-bf1d-11eb-9379-c7108379070c.png) ![image](https://user-images.githubusercontent.com/64952609/119834489-a2219a00-bf1d-11eb-8c06-cd2c358bcb1c.png)
+
